@@ -104,7 +104,7 @@ CREATE TABLE `tbluser` (
 --
 
 INSERT INTO `tbluser` (`ID`, `FullName`, `Email`, `MobileNumber`, `Password`, `RegDate`) VALUES
-(11, 'Demo', 'tattervine@gmail.com', 1234567890, 'e14c05f0dc27e6be1fc127abaf474a59', '2019-12-22 18:00:10');
+(11, 'Demo', 'demo@gmail.com', 1234567890, 'e14c05f0dc27e6be1fc127abaf474a59', '2019-12-22 18:00:10');
 
 --
 -- Indexes for dumped tables
